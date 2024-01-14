@@ -8,14 +8,10 @@ Welcome to our Book Selling Website! This repository contains the source code fo
 
 Caption: Landing page of our Book Selling Website.
 
-<<<<<<< HEAD
-Landing Page Overview:
-Header Section:
-=======
- ![alt Screenshot](https://github.com/civilInS/codsoft_1/blob/main/img/Screenshot.png)
->>>>>>> 02597117cf7fa52afda1e9626fd6ffe943b34945
+HEADER SECTION
 
-# Logo and Title:
+## Header Section:
+### Logo and Title:
 A website logo and title are displayed at the left side of the header.
 
 Navigation Menu:
@@ -25,7 +21,7 @@ User Section:
 A user logo is displayed on the right side of the header.
 A "Sign Up" button is placed to the right of the user logo.
 
-# Main Sections:
+## Main Sections:
 
 Home Section:
 A section displaying advertised books with images linked to GitHub repositories.
@@ -49,7 +45,15 @@ Social media icons with links (LinkedIn, Email, Twitter) are displayed in the fo
 Copyright Information:
 Copyright information is displayed at the bottom of the footer.
 
-# Additional Styling and Features:
+## Footer Section:
+
+Social Media Links:
+Social media icons with links (LinkedIn, Email, Twitter) are displayed in the footer.
+
+Copyright Information:
+Copyright information is displayed at the bottom of the footer
+
+## Additional Styling and Features:
 
 Responsive Design:
 The layout adjusts for different screen sizes using flexbox and media queries.

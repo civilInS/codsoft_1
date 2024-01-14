@@ -8,8 +8,6 @@ Welcome to our Book Selling Website! This repository contains the source code fo
 
 Caption: Landing page of our Book Selling Website.
 
-HEADER SECTION
-
 ## Header Section:
 ### Logo and Title:
 A website logo and title are displayed at the left side of the header.

@@ -8,7 +8,7 @@ Describe your book selling website and provide a brief overview of its features 
 
 ## Screenshots
 
- ![alt Screenshot](codsoft_1/img/screenshot.png)
+ ![alt Screenshot]([codsoft_1/img/screenshot.png](https://github.com/civilInS/codsoft_1/blob/main/img/Screenshot.png))
 
 
 Caption: Landing page of our Book Selling Website.

@@ -8,7 +8,8 @@ Describe your book selling website and provide a brief overview of its features 
 
 ## Screenshots
 
-![Screenshot](codsoft/img/screenshot.png)
+ ![Screenshot](img/screenshot.png)
+
 
 Caption: Landing page of our Book Selling Website.
 
@@ -18,10 +19,3 @@ Caption: Landing page of our Book Selling Website.
 - Feature 2: Mention another important feature.
 - Feature 3: Highlight additional features.
 
-## Getting Started
-
-Provide instructions on how to clone and run the project locally for development or testing purposes.
-
-```bash
-git clone https://github.com/your-username/book-selling-website.git
-cd book-selling-website

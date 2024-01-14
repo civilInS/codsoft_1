@@ -8,7 +8,7 @@ Describe your book selling website and provide a brief overview of its features 
 
 ## Screenshots
 
- ![Screenshot](codsoft_1/img/screenshot.png)
+ ![alt Screenshot](codsoft_1/img/screenshot.png)
 
 
 Caption: Landing page of our Book Selling Website.

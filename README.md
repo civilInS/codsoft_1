@@ -8,8 +8,12 @@ Welcome to our Book Selling Website! This repository contains the source code fo
 
 Caption: Landing page of our Book Selling Website.
 
+<<<<<<< HEAD
 Landing Page Overview:
 Header Section:
+=======
+ ![alt Screenshot](https://github.com/civilInS/codsoft_1/blob/main/img/Screenshot.png)
+>>>>>>> 02597117cf7fa52afda1e9626fd6ffe943b34945
 
 # Logo and Title:
 A website logo and title are displayed at the left side of the header.
